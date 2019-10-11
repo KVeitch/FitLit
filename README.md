@@ -1,6 +1,6 @@
 # FitLit
 
-## [Live Site](https://peeratmac.github.io/fitlit/src/index.html)
+## [Live Site](https://kveitch.github.io/fitlit/src/index.html)
 
 ### [Kirk Veitch](https://github.com/kveitch) and [Peerat Sukcharoenyingyong](https://github.com/peeratmac)
 
